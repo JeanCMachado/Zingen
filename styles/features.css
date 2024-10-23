@@ -48,7 +48,7 @@
         }
 
         & .desktop-only{
-            top: 2rem;
+            bottom: 2rem;
             left: 2rem;
 
         }
@@ -63,7 +63,7 @@
         }
 
         & .desktop-only{
-            bottom: 2rem;
+            top: 2rem;
             right: 2rem;
         }
     }
